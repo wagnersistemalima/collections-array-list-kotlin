@@ -10,4 +10,5 @@ fun main() {
     nomes.sort()
 
     nomes.forEach { it -> println(it) }
+
 }
